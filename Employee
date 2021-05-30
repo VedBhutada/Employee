@@ -1,0 +1,8 @@
+public class Employee 
+{
+	public void information(String name,int yoj,float sal,String address)
+	{
+		System.out.println("NAME\t\tYEAR OF JOINING\t\tSALARY\t\tADDRESS");
+		System.out.println(name+"\t\t"+yoj+"\t\t"+sal+"\t\t"+address);
+	}
+}
